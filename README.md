@@ -1,3 +1,4 @@
-# AlbanyCC
+# HTML_CSS_JS
+Sample exercise files for integrating external source files into HTML
 
-This repository contains practice files for crash coding essentials course @ Albany CC
+Here are some sample files which assist in your learning how references to external style sheets and Javascript code are handled by an HTML file.
