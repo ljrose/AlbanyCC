@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<style>
+
+body {
+  font-family: Sans-Serif;
+}
+
+
+</style>
+
+
+
+</head>
+
+
+
+<body>
+
+<p>This is an example of having Javascript insert today's date</p>
+
+<script>
+		
+	var currentTime = new Date()
+	var month = currentTime.getMonth() + 1
+	var day = currentTime.getDate()
+	var year = currentTime.getFullYear()
+	document.write(month + "/" + day + "/" + year);
+
+</script>
+
+</body>
+
+</html>
+

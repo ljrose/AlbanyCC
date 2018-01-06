@@ -1,3 +1,2 @@
-# AlbanyCC
-
-This repository contains practice files for crash coding essentials course @ Albany CC
+# LTC_JavascriptBasics
+Very simple example of Javascript embedded in an HTML file
